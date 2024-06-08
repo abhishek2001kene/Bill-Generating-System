@@ -49,4 +49,5 @@ Efficiency: Automates the repetitive task of calculating and generating bills, s
 Convenience: Simple interface and easy-to-follow prompts make it accessible for users with minimal technical knowledge.
 Scalability: Basic structure allows for future enhancements, such as adding more items, integrating with databases, or implementing discounts and taxes.
 
-
+![Screenshot 2024-06-08 230309](https://github.com/abhishek2001kene/Bill-Generating-System/assets/148790300/050f7417-bad3-4dbf-85c5-179ca082d3de)
+![Screenshot 2024-06-08 230253](https://github.com/abhishek2001kene/Bill-Generating-System/assets/148790300/b13b10f1-679a-4949-b22a-592f3498741d)
